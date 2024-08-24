@@ -1,0 +1,1 @@
+This repository contains all the exercises and challenges discussed in Abdul Bari Sir's Udemy Course "Deep Dive in Core Java programming -Standard Edition. A Practical approach to learn Java. Become a Java Expert"
